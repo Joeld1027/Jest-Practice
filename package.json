@@ -1,0 +1,14 @@
+{
+	"name": "test1",
+	"version": "1.0.0",
+	"description": "",
+	"main": "script.js",
+	"scripts": {
+		"test": "jest --watch *.js"
+	},
+	"author": "Joel Infante",
+	"license": "ISC",
+	"dependencies": {
+		"jest": "^26.1.0"
+	}
+}
